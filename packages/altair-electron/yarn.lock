@@ -907,6 +907,11 @@ ajv@^7.0.3:
     require-from-string "^2.0.2"
     uri-js "^4.2.2"
 
+altair-static@^4.0.5:
+  version "4.6.4"
+  resolved "https://registry.yarnpkg.com/altair-static/-/altair-static-4.6.4.tgz#b5f4ad894ed04a025e86cda25fb8ca09b0a11750"
+  integrity sha512-k+u7cy/UHPJRuB8zkGUpDQZYXL8N0bqwgAPqA4/ijP3YxqSS2QzUYVnnNPa5M+NeuVRV3y5bWcjmFHQkSpo45Q==
+
 ansi-align@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/ansi-align/-/ansi-align-3.0.0.tgz#b536b371cf687caaef236c18d3e21fe3797467cb"
@@ -3154,9 +3159,9 @@ html-escaper@^2.0.0:
   integrity sha512-H2iMtd0I4Mt5eYiapRdIDjp+XzelXQ0tFE4JS7YFwFevXXMmOp9myNrUvCg0D6ws8iqkRPBfKHgbwig1SmlLfg==
 
 http-cache-semantics@^4.0.0:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.0.3.tgz#495704773277eeef6e43f9ab2c2c7d259dda25c5"
-  integrity sha512-TcIMG3qeVLgDr1TEd2XvHaTnMPwYQUQMIBLy+5pLSDKYFc7UIqj39w8EGzZkaxoLv/l2K8HaI0t5AVA+YYgUew==
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/http-cache-semantics/-/http-cache-semantics-4.3.0.tgz#09eead3b16c6d85552857cc3fbd888d8353a2aaf"
+  integrity sha512-M5t5LlJpS1UHMjvwRQVdFHvPISGeLAxNcrWuJkeGh0KxsqCHZ1O3NXZU/8x7cD0BDcGW8kapxMKTvwlqrNkHkA==
 
 http-signature@~1.2.0:
   version "1.2.0"
